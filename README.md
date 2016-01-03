@@ -2,8 +2,8 @@
 Get started with Junit
 
 * [Course Overview](#topics)
-  - [Section 1 Foundation](#step-list)
-  - [Section 2  First JUnit Example](#section-2-first-junit-example)
+  - [Section 1 Foundation](#section-1-foundation)
+  - [Section 2 First JUnit Example](#section-2-first-junit-example)
   - [Section 3 Second JUnit Example](#section-3-second-junit-example)
   - [Section 4 JUnit Simple Test Scenarios](#section-4-junit-simple-test-scenarios)
   - [Section 5 JUnit Intermediate Test Scenarios](#section-5-junit-intermediate-test-scenarios)
@@ -20,7 +20,7 @@ Get started with Junit
 - What is JUnit?
 - Why Unit Testing?
 
-###Section 2  First JUnit Example
+###Section 2 First JUnit Example
 @Test Annotation
 - Running JUnit
 - No Failure = Success
